@@ -1,1 +1,1 @@
-"This is a repo for learning git"
+"Git should be mastered by all developers"
